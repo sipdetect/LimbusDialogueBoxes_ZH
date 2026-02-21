@@ -1,0 +1,324 @@
+{
+  "dataList": [
+    {
+      "id": "6SV-009-002",
+      "desc": "카세티 피격시",
+      "dlg": "什麼？這太卑鄙了！卑鄙！卑鄙！！"
+    },
+    {
+      "id": "6SV-009-002-01",
+      "desc": "카세티 피격시",
+      "dlg": "<color=#f25252>該死，該死！</color>"
+    },
+    {
+      "id": "6SV-010-001",
+      "desc": "카세티 공격시_1",
+      "dlg": "<color=#f25252>哈！跪下！</color>"
+    },
+    {
+      "id": "6SV-010-002",
+      "desc": "카세티 공격시_2",
+      "dlg": "<color=#f25252>沒錯，認清你的身份……</color>"
+    },
+    {
+      "id": "6SV-010-003-01",
+      "desc": "카세티 공격시_3",
+      "dlg": "<color=#f25252>抓住你了！不……不？滾開！</color>"
+    },
+    {
+      "id": "6SV-011-001",
+      "desc": "카세티가 전투 중 등장할 때",
+      "dlg": "在王國之主面前俯首吧！"
+    },
+    {
+      "id": "6SV-011-002",
+      "desc": "카세티가 전투 중 등장할 때",
+      "dlg": "……我有說過你可以轉移視線嗎？那是重罪。"
+    },
+    {
+      "id": "6SV-012",
+      "desc": "카세티 등장 턴",
+      "dlg": "<color=#f25252>不……不需要煩惱……咳！我可以做到的……等我把他們全部殺掉，這里就會安靜了。</color>"
+    },
+    {
+      "id": "6SV-013-001",
+      "desc": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+      "dlg": "你在往哪看？你也想被我那紅酒般的血浸透嗎？"
+    },
+    {
+      "id": "6SV-013-002",
+      "desc": "카세티 나는… 이 행진의… 왕자이다…! 사용 시",
+      "dlg": "……那是我最後的仁慈。你不必謝我。"
+    },
+    {
+      "id": "6SV-014",
+      "desc": "카세티 나는… 이 행진의… 왕자이다…! 사용 후 다음 턴",
+      "dlg": "<color=#f25252>好痛……但我渴望看到……這股力量的極限！</color>"
+    },
+    {
+      "id": "6SV-015",
+      "desc": "사샤 등장 시",
+      "dlg": "<color=#f25252>他們還不明白嗎？哈……成為血包將是一種進步，一種昇華！</color>"
+    },
+    {
+      "id": "6SV-017_2",
+      "desc": "사샤 스킬 사용시",
+      "dlg": "<color=#f25252>來獲取更多血液吧！！</color>"
+    },
+    {
+      "id": "6SV-017_2-02",
+      "desc": "사샤 스킬 사용시",
+      "dlg": "<color=#f25252>來獲取更多血液吧，哈哈哈……！</color>"
+    },
+    {
+      "id": "6SV-016_1",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "<color=#f25252>該死！</color>"
+    },
+    {
+      "id": "6SV-016_1-01",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "<color=#f25252>該死！</color>"
+    },
+    {
+      "id": "6SV-016_1-02",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "<color=#f25252>該死！</color>"
+    },
+    {
+      "id": "9SV-BAT8-BR4-1",
+      "desc": "####### Thumb Nursefather Valencina #############",
+      "dlg": "<color=#ffffff>滾開！</color>"
+    },
+    {
+      "id": "9SV-BAT8-BR4-1-01",
+      "desc": "",
+      "dlg": "<color=#ffffff>滾開！</color>"
+    },
+    {
+      "id": "9SV-BAT8-BR4-1-02",
+      "desc": "",
+      "dlg": "<color=#ffffff>滾開！</color>"
+    },
+    {
+      "id": "9SV-BAT8-BR4-1-03",
+      "desc": "",
+      "dlg": "<color=#ffffff>滾開！</color>"
+    },
+    {
+      "id": "9SV-BAT8-BR4-1-04",
+      "desc": "",
+      "dlg": "<color=#ffffff>滾開！</color>"
+    },
+    {
+      "id": "battle_select_10814_1",
+      "desc": "############ 蛛巢中居學徒以實瑪利 ############",
+      "dlg": "<color=#ff9500>剛才那個動作你看到沒？那個細節，天啊，簡直絕了……\n是這樣動嗎？還是——不對，應該像<i>這樣</i>？</color>"
+    },
+    {
+      "id": "battle_endcommand_10814_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>這下絕對超帥的！</color>"
+    },
+    {
+      "id": "battle_enemy_break_10814_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>嘿嘿。你氣炸了嗎老兄？你能拿我怎樣？</color>"
+    },
+    {
+      "id": "battle_break_10814_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>啊啊！</color>"
+    },
+    {
+      "id": "battle_kill_10814_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>哈！想得美，笨蛋~</color>"
+    },
+    {
+      "id": "battle_dead_10814_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>媽……媽媽……</color>"
+    },
+    {
+      "id": "battle_s3_10814_1_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>這是放大招的最佳角度吧？</color>"
+    },
+    {
+      "id": "battle_s3_10814_1_2",
+      "desc": "",
+      "dlg": "<color=#ff9500>接招吧！紫羅蘭~破碎猛擊！！！</color>"
+    },
+    {
+      "id": "battle_s3_10814_1_3",
+      "desc": "",
+      "dlg": "<color=#ff9500>啊！好像不是……管它的猛擊！</color>"
+    },
+    {
+      "id": "battle_special_10814_1",
+      "desc": "",
+      "dlg": "<color=#ff9500>看你盯的方向……我知道媽媽超帥的……</color>"
+    },
+    {
+      "id": "battle_special_10814_2",
+      "desc": "",
+      "dlg": "<color=#ff9500>雖然比不上媽媽的……但我也能邊切邊烤哦，知道嗎？</color>"
+    },
+    {
+      "id": "battle_special_10814_3",
+      "desc": "",
+      "dlg": "<color=#ff9500>怒氣值……滿了。</color>"
+    },
+    {
+      "id": "battle_special_10814_4",
+      "desc": "",
+      "dlg": "<color=#ff9500>哦？今天留在蛛巢了嗎？那……你看了我跟你說的《驟雨之刃》了嗎？啊，等、等等！別跑啊！</color>"
+    },
+    {
+      "id": "battle_special_10814_5",
+      "desc": "",
+      "dlg": "<color=#ff9500>果然媽媽是最棒的~！</color>"
+    },
+    {
+      "id": "battle_select_11214_1",
+      "desc": "############ 提燈E.G.O格里高爾 ############",
+      "dlg": "<color=#a0522d>可悲的是，住在我森林裡的只有死者。如今，我唯一能做的……就是殺死那頭野獸。</color>"
+    },
+    {
+      "id": "battle_endcommand_11214_1",
+      "desc": "",
+      "dlg": "<color=#a0522d>提升E.G.O同調中……</color>"
+    },
+    {
+      "id": "battle_enemy_break_11214_1",
+      "desc": "",
+      "dlg": "<color=#a0522d>別動。</color>"
+    },
+    {
+      "id": "battle_break_11214_1",
+      "desc": "",
+      "dlg": "<color=#a0522d>唔……</color>"
+    },
+    {
+      "id": "battle_kill_11214_1",
+      "desc": "",
+      "dlg": "<color=#a0522d>我是來拯救你的。</color>"
+    },
+    {
+      "id": "battle_dead_11214_1",
+      "desc": "",
+      "dlg": "<color=#a0522d>原來……就這樣結束了嗎……</color>"
+    },
+    {
+      "id": "battle_s3_11214_1_5",
+      "desc": "",
+      "dlg": "<color=#a0522d>照亮前方的路吧，這樣我才能看清那些必須拯救的生命。</color>"
+    },
+    {
+      "id": "battle_s3_11214_1_6",
+      "desc": "",
+      "dlg": "<color=#a0522d>我現在看清了……我必須拯救的人是誰！</color>"
+    },
+    {
+      "id": "battle_special_11214_1",
+      "desc": "",
+      "dlg": "<color=#a0522d>到這邊來……我一定會確保你的安全。</color>"
+    },
+    {
+      "id": "battle_select_11015_1",
+      "desc": "############ 小指學徒辛克萊 ############",
+      "dlg": "<color=#94e619>一刀直落，盡數斬滅……！</color>"
+    },
+    {
+      "id": "battle_endcommand_11015_1",
+      "desc": "",
+      "dlg": "<color=#94e619>請允許我展示。</color>"
+    },
+    {
+      "id": "battle_enemy_break_11015_1",
+      "desc": "",
+      "dlg": "<color=#94e619>不可如此輕易屈服。</color>"
+    },
+    {
+      "id": "battle_break_11015_1",
+      "desc": "",
+      "dlg": "<color=#94e619>嗚……！</color>"
+    },
+    {
+      "id": "battle_kill_11015_1",
+      "desc": "",
+      "dlg": "<color=#94e619>又向那獨一無二的劍道邁進了一步。</color>"
+    },
+    {
+      "id": "battle_dead_11015_1",
+      "desc": "본인 사망",
+      "dlg": "<color=#94e619>人生短暫如斯，死亡本為定數……然而未能繼承星之名……是我此生的悲痛與遺憾。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_4",
+      "desc": "",
+      "dlg": "<color=#94e619>刀路已定。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_4-01",
+      "desc": "",
+      "dlg": "<color=#94e619>刀路已定。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_4-02",
+      "desc": "",
+      "dlg": "<color=#94e619>刀路已定。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_6",
+      "desc": "",
+      "dlg": "<color=#94e619>雙連斬(二連)。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_6-01",
+      "desc": "",
+      "dlg": "<color=#94e619>雙連斬(二連)。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_6-02",
+      "desc": "",
+      "dlg": "<color=#94e619>雙連斬(二連)。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_7",
+      "desc": "",
+      "dlg": "<color=#94e619>三連斬(三連)，處決。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_7-01",
+      "desc": "",
+      "dlg": "<color=#94e619>三連斬(三連)，處決。</color>"
+    },
+    {
+      "id": "battle_s2_11015_1_7-02",
+      "desc": "",
+      "dlg": "<color=#94e619>三連斬(三連)，處決。</color>"
+    },
+    {
+      "id": "battle_s3_11015_1_5",
+      "desc": "",
+      "dlg": "<color=#94e619>萬籟俱寂，屏息凝神……</color>"
+    },
+    {
+      "id": "battle_s3_11015_1_6",
+      "desc": "",
+      "dlg": "<color=#94e619>於剎那間斬穿稍縱即逝的破綻……</color>"
+    },
+    {
+      "id": "battle_s3_11015_1_7",
+      "desc": "",
+      "dlg": "<color=#94e619>此刻，請見證刀鋒劈落。</color>"
+    },
+    {
+      "id": "battle_s3_11015_1_8",
+      "desc": "",
+      "dlg": "<color=#94e619>終於，月已圓滿。</color>"
+    }
+  ]
+}
