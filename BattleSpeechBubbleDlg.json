@@ -8078,6 +8078,176 @@
       "id": "battle_s3_11015_1_8",
       "desc": "",
       "dlg": "<color=#94e619>終於，月已圓滿。</color>"
+    },
+    {
+      "id": "battle_select_10514_1",
+      "desc": "########### Hornet E.G.O Meursault ###########",
+      "dlg": "<color=#293b95>我的武器自始便只為對肉體造成傷害而設計。若您需要回復理智值，請另尋其他員工。</color>"
+    },
+    {
+      "id": "battle_endcommand_10514_1",
+      "desc": "",
+      "dlg": "<color=#293b95>所需之物，僅是命中靶心的意志。</color>"
+    },
+    {
+      "id": "battle_enemy_break_10514_1",
+      "desc": "",
+      "dlg": "<color=#293b95>鎮壓目標已出現疲勞徵兆。</color>"
+    },
+    {
+      "id": "battle_break_10514_1",
+      "desc": "",
+      "dlg": "<color=#293b95>呃……請求一發HP子彈。</color>"
+    },
+    {
+      "id": "battle_kill_10514_1",
+      "desc": "",
+      "dlg": "<color=#293b95>目標已中和。即刻轉進至下一個鎮壓目標……</color>"
+    },
+    {
+      "id": "battle_dead_10514_1",
+      "desc": "",
+      "dlg": "<color=#293b95>……我原以為自己會死於處決彈……或死於管理作業中……但……\n能以這般方式收場……倒是罕有的體驗。</color>"
+    },
+    {
+      "id": "battle_s3_10514_1_1",
+      "desc": "",
+      "dlg": "<color=#293b95>塵火花，現場測試成功。</color>"
+    },
+    {
+      "id": "battle_special_10514_1",
+      "desc": "",
+      "dlg": "<color=#293b95>裝填。</color>"
+    },
+    {
+      "id": "battle_special_10514_2",
+      "desc": "",
+      "dlg": "<color=#293b95>……彈藥耗盡。</color>"
+    },
+    {
+      "id": "battle_special_10514_3",
+      "desc": "",
+      "dlg": "<color=#293b95>……目標是保衛巢。</color>"
+    },
+    {
+      "id": "battle_special_10514_4",
+      "desc": "",
+      "dlg": "<color=#293b95>雙重射擊。</color>"
+    },
+    {
+      "id": "battle_special_10514_5",
+      "desc": "",
+      "dlg": "<color=#293b95>瞄準並非必要。</color>"
+    },
+    {
+      "id": "battle_special_10514_6-1",
+      "desc": "",
+      "dlg": "<color=#293b95>目標確認。</color>"
+    },
+    {
+      "id": "battle_special_10514_6-2",
+      "desc": "",
+      "dlg": "<color=#293b95>針彈。</color>"
+    },
+    {
+      "id": "battle_special_10514_6-3",
+      "desc": "",
+      "dlg": "<color=#293b95>壕溝射擊。</color>"
+    },
+    {
+      "id": "battle_special_10514_6-4",
+      "desc": "",
+      "dlg": "<color=#293b95>鹿彈，現場測試成功。</color>"
+    },
+    {
+      "id": "battle_special_10514_6-5",
+      "desc": "",
+      "dlg": "<color=#293b95>燃燒彈，現場測試成功。</color>"
+    },
+    {
+      "id": "battle_special_10514_7",
+      "desc": "",
+      "dlg": "<color=#293b95>嗯，已回收備用彈藥。</color>"
+    },
+    {
+      "id": "battle_select_10414_1",
+      "desc": "########## Faint Aroma & Solitude E.G.O Ryoshu ##########",
+      "dlg": "<color=#cf0000>要對我用HP恢復彈就先打聲招呼。再像上次那樣不吭聲就扣扳機，我會再用刀鞘把你那顆花俏子彈彈開。</color>"
+    },
+    {
+      "id": "battle_endcommand_10414_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>該往深處鑽了，F.A.S.</color>"
+    },
+    {
+      "id": "battle_enemy_break_10414_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>就讓花香……哄你入眠。</color>"
+    },
+    {
+      "id": "battle_break_10414_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>嘖。連嘴裡都甜得發膩……</color>"
+    },
+    {
+      "id": "battle_kill_10414_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>……埋進塵土裡吧。</color>"
+    },
+    {
+      "id": "battle_dead_10414_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>……睏了。到時候了嗎……我的春眠……？</color>"
+    },
+    {
+      "id": "battle_s3_10414_1_2",
+      "desc": "",
+      "dlg": "<color=#cf0000>回你出生的地方去。</color>"
+    },
+    {
+      "id": "battle_special_10414_1-1",
+      "desc": "",
+      "dlg": "<color=#cf0000>速射！</color>"
+    },
+    {
+      "id": "battle_special_10414_1-1-01",
+      "desc": "",
+      "dlg": "<color=#cf0000>速射。</color>"
+    },
+    {
+      "id": "battle_special_10414_1-2",
+      "desc": "",
+      "dlg": "<color=#cf0000>散射！</color>"
+    },
+    {
+      "id": "battle_special_10414_1-2-01",
+      "desc": "",
+      "dlg": "<color=#cf0000>散射。</color>"
+    },
+    {
+      "id": "battle_special_10414_1-3",
+      "desc": "",
+      "dlg": "<color=#cf0000>你鬆懈了。</color>"
+    },
+    {
+      "id": "battle_special_10414_1-4",
+      "desc": "",
+      "dlg": "<color=#cf0000>砰。砰。</color>"
+    },
+    {
+      "id": "battle_special_10414_2",
+      "desc": "",
+      "dlg": "<color=#cf0000>凡有生者，終將歸滅（是生滅法）。拖得越久，便越不珍貴。</color>"
+    },
+    {
+      "id": "battle_special_10414_3",
+      "desc": "",
+      "dlg": "<color=#cf0000><i>*口哨*</i> 該開槍了。</color>"
+    },
+    {
+      "id": "battle_special_10414_4",
+      "desc": "",
+      "dlg": "<color=#cf0000>回墳裡去吧……連同那些渴求活命的東西一起。</color>"
     }
   ]
 }
