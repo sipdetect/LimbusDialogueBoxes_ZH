@@ -8178,6 +8178,171 @@
       "dlg": "<color=#cf0000>回墳裡去吧……連同那些渴求活命的東西一起。</color>"
     },
     {
+      "id": "battle_select_10215_1",
+      "desc": "한글보완: ########## The Ring Apprentice Faust #############",
+      "dlg": "<color=#fa5a29>請從遠處觀賞，僅供觀覽。</color>"
+    },
+    {
+      "id": "battle_endcommand_10215_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>靈感一閃。</color>"
+    },
+    {
+      "id": "battle_enemy_break_10215_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>這些血管足夠粗壯。相當不錯。</color>"
+    },
+    {
+      "id": "battle_break_10215_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>你害怕了嗎，Fascia？</color>"
+    },
+    {
+      "id": "battle_kill_10215_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>直到此刻，我們才算成了朋友。</color>"
+    },
+    {
+      "id": "battle_dead_10215_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>Fa……scia……</color>"
+    },
+    {
+      "id": "battle_s2_10215_1_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>這份材料我收下了。</color>"
+    },
+    {
+      "id": "battle_s3_10215_1_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>以吾骨為架，以吾肉為填，這便是外飾之藝。</color>"
+    },
+    {
+      "id": "battle_special_10215_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>看來我得讓你見識外飾之藝了。</color>"
+    },
+    {
+      "id": "battle_special_10215_2",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>我不欣賞任何破壞行為。</color>"
+    },
+    {
+      "id": "battle_special_10215_3",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#fa5a29>你總能喚醒我的靈感。</color>"
+    },
+    {
+      "id": "battle_select_10614_1",
+      "desc": "한글보완: ############# The Ring Nursefather Hong Lu ###############",
+      "dlg": "<color=#5bffde>噓。觀展時請保持安靜。</color>"
+    },
+    {
+      "id": "battle_endcommand_10614_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>還請務必分享您的觀後感。</color>"
+    },
+    {
+      "id": "battle_enemy_break_10614_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>您可有最後想留給這個世界的話語……？</color>"
+    },
+    {
+      "id": "battle_break_10614_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>或許是我……鑑賞崇高之美的眼光還不夠……</color>"
+    },
+    {
+      "id": "battle_kill_10614_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>啊……多麼美妙的臨終悲鳴。</color>"
+    },
+    {
+      "id": "battle_dead_10614_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>原來是您……我的送葬人……</color>"
+    },
+    {
+      "id": "battle_s3_10614_1_2",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>您聽見了嗎？那對肱骨與二十四根肋骨交織出的悅耳和聲……！脛骨的旋律！</color>"
+    },
+    {
+      "id": "battle_special_10614_1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>我不能讓觀眾目睹如此有失體面的景象。</color>"
+    },
+    {
+      "id": "battle_special_10614_1-01",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>我不能讓觀眾目睹如此有失體面的景象。</color>"
+    },
+    {
+      "id": "battle_special_10614_2",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>禁止破壞展品！</color>"
+    },
+    {
+      "id": "battle_special_10614_3",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>浮士德，展出軀體主義之藝的時刻已至。</color>"
+    },
+    {
+      "id": "battle_special_10614_4",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>畫廊的閉館時間到了……</color>"
+    },
+    {
+      "id": "battle_special_10614_4-01",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>畫廊的閉館時間到了……</color>"
+    },
+    {
+      "id": "battle_special_10614_4-1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>各位，再會了！</color>"
+    },
+    {
+      "id": "battle_special_10614_4-01-1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>各位，再會了！</color>"
+    },
+    {
+      "id": "battle_special_10614_4-02",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>畫廊的閉館時間到了……</color>"
+    },
+    {
+      "id": "battle_special_10614_4-02-1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>各位，再會了！</color>"
+    },
+    {
+      "id": "battle_special_10614_4-03",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>畫廊的閉館時間到了……</color>"
+    },
+    {
+      "id": "battle_special_10614_4-03-1",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>各位，再會了！</color>"
+    },
+    {
+      "id": "battle_special_10614_5",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>真遺憾。我原本還期待留在她身上的傷痕，能將她昇華成更震撼的作品……</color>"
+    },
+    {
+      "id": "battle_special_10614_6",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>啊……！真是絕妙的藝術……！</color>"
+    },
+    {
+      "id": "battle_special_10614_7",
+      "desc": "한글보완: 설명 없음",
+      "dlg": "<color=#5bffde>請從那裡……好好觀賞……！</color>"
+    },
+    {
       "id": "battle_select_11215_1",
       "desc": "말풍선 특수 대사_LCE AEDD 그레고르_선택",
       "dlg": "<color=#a0522d>實驗正在進行中。控制變因時，請務必小心。</color>"
