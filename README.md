@@ -7,6 +7,8 @@
 
 歡迎協助糾錯與補正，共同打造更完整的戰鬥閱讀體驗。
 
+# 此庫現在作為 https://github.com/sipdetect/LZCR-Limbus-Zh-TW-Converter 的正體中文化戰鬥氣泡語音庫
+
 ---
 
 ## 📦 安裝方式
