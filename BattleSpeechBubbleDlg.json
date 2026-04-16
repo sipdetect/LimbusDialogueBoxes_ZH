@@ -8265,7 +8265,7 @@
     {
       "id": "battle_s3_10614_1_2",
       "desc": "한글보완: 설명 없음",
-      "dlg": "<color=#5bffde>您聽見了嗎？那對肱骨與二十四根肋骨交織出的悅耳和聲……！Tibia的旋律！</color>"
+      "dlg": "<color=#5bffde>您聽見了嗎？那對肱骨與二十四根肋骨交織出的悅耳和聲……！脛骨的旋律！</color>"
     },
     {
       "id": "battle_special_10614_1",
@@ -8401,6 +8401,141 @@
       "id": "battle_special_11215_4",
       "desc": "말풍선 특수 대사_LCE AEDD 그레고르_특수4",
       "dlg": "<color=#a0522d>自體發電，啟動。</color>"
+    },
+    {
+      "id": "battle_select_10515_1",
+      "desc": "####### The Ring Fauvist Student Meursault #######",
+      "dlg": "<color=#293b95>在獵物面前扯住獵犬的牽繩，實在是——！</color>"
+    },
+    {
+      "id": "battle_endcommand_10515_1",
+      "desc": "",
+      "dlg": "<color=#293b95>C'est sauvage！</color>"
+    },
+    {
+      "id": "battle_enemy_break_10515_1",
+      "desc": "",
+      "dlg": "<color=#293b95>一旦掌握了犬類素材，</color>"
+    },
+    {
+      "id": "battle_break_10515_1",
+      "desc": "",
+      "dlg": "<color=#293b95>呃……可作業還——</color>"
+    },
+    {
+      "id": "battle_kill_10515_1",
+      "desc": "",
+      "dlg": "<color=#293b95>下個作品，我希望能<i>與你</i>共同創作。</color>"
+    },
+    {
+      "id": "battle_dead_10515_1",
+      "desc": "",
+      "dlg": "<color=#293b95>死亡的腐臭……原來自始至終……作品就是我自己。</color>"
+    },
+    {
+      "id": "battle_s3_10515_1_2",
+      "desc": "",
+      "dlg": "<color=#293b95>向更野蠻的領域……更深處……</color>"
+    },
+    {
+      "id": "battle_special_10515_1",
+      "desc": "",
+      "dlg": "<color=#293b95>……再以強烈筆觸收尾。</color>"
+    },
+    {
+      "id": "battle_special_10515_3",
+      "desc": "",
+      "dlg": "<color=#293b95>嗯。爪痕形狀的傷口……\n很適合你。</color>"
+    },
+    {
+      "id": "battle_special_10515_4",
+      "desc": "",
+      "dlg": "<color=#293b95>感謝你帶來的靈感。</color>"
+    },
+    {
+      "id": "battle_select_10915_1",
+      "desc": "####### The Ring Fauvist Docent Rodion #######",
+      "dlg": "<color=#a60000>小心點。你正用眼神把作品剝光呢。</color>"
+    },
+    {
+      "id": "battle_endcommand_10915_1",
+      "desc": "",
+      "dlg": "<color=#a60000>來上超脫塵世的調色盤吧。</color>"
+    },
+    {
+      "id": "battle_enemy_break_10915_1",
+      "desc": "",
+      "dlg": "<color=#a60000>怎麼啦？我的爪子撓進你皮肉裡了嗎？</color>"
+    },
+    {
+      "id": "battle_break_10915_1",
+      "desc": "",
+      "dlg": "<color=#a60000>嗯。這份素材比看起來更難啃。</color>"
+    },
+    {
+      "id": "battle_kill_10915_1",
+      "desc": "",
+      "dlg": "<color=#a60000>再會。</color>"
+    },
+    {
+      "id": "battle_dead_10915_1",
+      "desc": "",
+      "dlg": "<color=#a60000>哈……我可沒打算……這麼早就用自己的死後溢價……給我的作品加碼……</color>"
+    },
+    {
+      "id": "battle_s3_10915_1_1",
+      "desc": "",
+      "dlg": "<color=#a60000>未完成的作品……</color>"
+    },
+    {
+      "id": "battle_s3_10915_1_5",
+      "desc": "",
+      "dlg": "<color=#a60000>……就得咬下一口，才能再加工！</color>"
+    },
+    {
+      "id": "battle_special_10915_1_1",
+      "desc": "",
+      "dlg": "<color=#a60000>神經。對位！</color>"
+    },
+    {
+      "id": "battle_special_10915_1_2",
+      "desc": "",
+      "dlg": "<color=#a60000><i>啊哈哈哈哈哈！</i></color>"
+    },
+    {
+      "id": "battle_special_10915_1_3",
+      "desc": "",
+      "dlg": "<color=#a60000>凶暴地！</color>"
+    },
+    {
+      "id": "battle_special_10915_2_1",
+      "desc": "",
+      "dlg": "<color=#a60000>要不要讓我稍微看看？</color>"
+    },
+    {
+      "id": "battle_special_10915_2_2",
+      "desc": "",
+      "dlg": "<color=#a60000>這股強度有點不夠看……？</color>"
+    },
+    {
+      "id": "battle_special_10915_2_3",
+      "desc": "",
+      "dlg": "<color=#a60000>要我說嘛……還不賴。</color>"
+    },
+    {
+      "id": "battle_special_10915_3",
+      "desc": "",
+      "dlg": "<color=#a60000>我的得意針線活……\n就特地讓你見識一下！</color>"
+    },
+    {
+      "id": "battle_special_10915_4",
+      "desc": "",
+      "dlg": "<color=#a60000>厚塗。</color>"
+    },
+    {
+      "id": "battle_special_10915_5",
+      "desc": "",
+      "dlg": "<color=#a60000>好啦~ 我的感想就到這邊。</color>"
     }
   ]
 }
