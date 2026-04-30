@@ -8536,6 +8536,81 @@
       "id": "battle_special_10915_5",
       "desc": "",
       "dlg": "<color=#a60000>好啦~ 我的感想就到這邊。</color>"
+    },
+    {
+      "id": "battle_select_10715_1",
+      "desc": "############ Ricardo The Middle Big Brother Heathcliff ##############",
+      "dlg": "<color=#6e44a6>嘿……你覺得呢？老子這頭頭髮現在看起來更油亮帶勁了吧！</color>"
+    },
+    {
+      "id": "battle_endcommand_10715_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>給老子站穩了，我要親自動手了！</color>"
+    },
+    {
+      "id": "battle_enemy_break_10715_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>昏死過去啦？行……帳本上的這一筆，就算清了。</color>"
+    },
+    {
+      "id": "battle_break_10715_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>嘖…… 呸</color>"
+    },
+    {
+      "id": "battle_kill_10715_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>喂，給我爬起來！你這條爛命還欠老子十一次死呢！</color>"
+    },
+    {
+      "id": "battle_dead_10715_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>呃啊……就算老子倒下……大哥們的報復也遲早會找上你們……！</color>"
+    },
+    {
+      "id": "battle_s3_10715_1_5",
+      "desc": "",
+      "dlg": "<color=#6e44a6>我來兌現承諾……送你們下地獄受苦！</color>"
+    },
+    {
+      "id": "battle_special_10715_1_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>沒時間陪你們玩了。</color>"
+    },
+    {
+      "id": "battle_special_10715_1_2",
+      "desc": "",
+      "dlg": "<color=#6e44a6>音樂給我開到最大聲！</color>"
+    },
+    {
+      "id": "battle_special_10715_2_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>要把你們通通……</color>"
+    },
+    {
+      "id": "battle_special_10715_2_2",
+      "desc": "",
+      "dlg": "<color=#6e44a6>全部處刑！</color>"
+    },
+    {
+      "id": "battle_special_10715_3_1",
+      "desc": "",
+      "dlg": "<color=#6e44a6>嘖，你們這群不長眼的小矮子……</color>"
+    },
+    {
+      "id": "battle_special_10715_3_2",
+      "desc": "",
+      "dlg": "<color=#6e44a6>全給老子滾出視線！</color>"
+    },
+    {
+      "id": "battle_special_10715_3_3",
+      "desc": "",
+      "dlg": "<color=#6e44a6>有種就來攔我試試啊！</color>"
+    },
+    {
+      "id": "battle_special_10715_4",
+      "desc": "",
+      "dlg": "<color=#6e44a6>凡是在犯罪現場的，不管是動手的還是看戲的……懲罰只有一個，那就是通通處刑！</color>"
     }
   ]
 }
