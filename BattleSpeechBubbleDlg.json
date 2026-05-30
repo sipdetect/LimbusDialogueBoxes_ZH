@@ -8826,6 +8826,111 @@
     "id": "battle_special_10415_11",
     "desc": "",
     "dlg": "<color=#cf0000>剩下來繼續肆虐的……不過是痛苦的怨恨。</color>"
-  }
+  }.
+  {
+      "id": "battle_select_11115_1",
+      "desc": "###### HoS The Middle Nursefather Outis ###### Viewed in Battle",
+      "dlg": "<color=#4d8058>那令人不安的噪音……我有種不祥的預感。別放鬆警惕。</color>"
+    },
+    {
+      "id": "battle_endcommand_11115_1",
+      "desc": "Commencing Attack",
+      "dlg": "<color=#4d8058>歡迎來到殺戮地帶！</color>"
+    },
+    {
+      "id": "battle_enemy_break_11115_1",
+      "desc": "Enemy Stagger",
+      "dlg": "<color=#4d8058>好了，是沒招了，還是你還留了什麼驚喜？</color>"
+    },
+    {
+      "id": "battle_break_11115_1",
+      "desc": "Staggered",
+      "dlg": "<color=#4d8058>哈哈！好久沒這樣了。我還真有點喘不上氣了！</color>"
+    },
+    {
+      "id": "battle_kill_11115_1",
+      "desc": "Enemy Killed",
+      "dlg": "<color=#4d8058>遊戲結束！</color>"
+    },
+    {
+      "id": "battle_dead_11115_1",
+      "desc": "Death",
+      "dlg": "<color=#4d8058>……不會讓你……拿走我的劍。永遠不會……</color>"
+    },
+    {
+      "id": "battle_s3_11115_1_1",
+      "desc": "",
+      "dlg": "<color=#4d8058>這些玩具……</color>"
+    },
+    {
+      "id": "battle_s3_11115_1_2",
+      "desc": "",
+      "dlg": "<color=#4d8058>……一點也不好玩……</color>"
+    },
+    {
+      "id": "battle_s3_11115_1_3",
+      "desc": "",
+      "dlg": "<color=#4d8058>……夠了！</color>"
+    },
+    {
+      "id": "battle_special_11115_1",
+      "desc": "",
+      "dlg": "<color=#4d8058>過來。</color>"
+    },
+    {
+      "id": "battle_special_11115_2_2",
+      "desc": "",
+      "dlg": "<color=#4d8058>警告你，這會很燙。</color>"
+    },
+    {
+      "id": "battle_special_11115_2_3",
+      "desc": "",
+      "dlg": "<color=#4d8058>像地獄一樣燙！</color>"
+    },
+    {
+      "id": "battle_special_11115_3",
+      "desc": "",
+      "dlg": "<color=#4d8058>哈！正中紅心！</color>"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "",
+      "dlg": "<color=#4d8058>我已經陪你玩夠了！\n是時候展現點真本事了！</color>"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "",
+      "dlg": "<color=#4d8058>哈哈哈！有意思！</color>"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "",
+      "dlg": "<color=#4d8058>看好了！</color>"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "",
+      "dlg": "<color=#4d8058>呵。連記下來的必要都沒有。</color>"
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "",
+      "dlg": "<color=#4d8058>好極了！幹得漂亮，小鬼！</color>"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "",
+      "dlg": "<color=#4d8058>還記得嗎，小鬼？</color>"
+    },
+    {
+      "id": "battle_special_11115_9-01",
+      "desc": "",
+      "dlg": "<color=#4d8058>如果是為了我們自己人，一點小小的犧牲算不了什麼！</color>"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "",
+      "dlg": "<color=#4d8058>這一切都是為了家族！</color>"
+    }
   ]
 }
