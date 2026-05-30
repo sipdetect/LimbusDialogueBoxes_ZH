@@ -8613,324 +8613,324 @@
       "dlg": "<color=#6e44a6>凡是在犯罪現場的，不管是動手的還是看戲的……懲罰只有一個，那就是通通處刑！</color>"
     },
     {
-    "id": "battle_eE_10415_1",
-    "desc": "############ Blade of the House of Spiders Ryoshu ##############이스터 - 메인(상) - 루치오 조우 시",
-    "dlg": "<color=#cf0000>我會將你大卸八塊，讓你 在·試·不·敢 這般拙劣的模仿。</color>"
-  },
-  {
-    "id": "battle_eE_10415_2",
-    "desc": "이스터 - 메인(상) - 렌 조우 시",
-    "dlg": "<color=#cf0000>你……是誰？蜘蛛巢裡可沒有你這號人物。</color>"
-  },
-  {
-    "id": "battle_eE_10415_3",
-    "desc": "이스터 - 메인(상) - 알비나 조우 시",
-    "dlg": "<color=#cf0000>……至少那身盔甲遮住了你那令人作嘔的模樣。</color>"
-  },
-  {
-    "id": "battle_eE_10415_4",
-    "desc": "이스터 - 메인(중) - 소라 조우 시",
-    "dlg": "<color=#cf0000>等我把你砍得不成·人·形，再把剩下的殘骸丟進哪個廢棄水溝裡，那煩人的嗶嗶聲或許就會消停了。</color>"
-  },
-  {
-    "id": "battle_eE_10415_5",
-    "desc": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
-    "dlg": "<color=#cf0000>……這地方，也有和我一樣的東西？</color>"
-  },
-  {
-    "id": "battle_eE_10415_6",
-    "desc": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
-    "dlg": "<color=#cf0000>我能看見與你纏繞著的每一根時間之絲。</color>"
-  },
-  {
-    "id": "battle_eE_10415_7",
-    "desc": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
-    "dlg": "<color=#cf0000>在我抹除自我的同時，希望你也能將自己抹除。</color>"
-  },
-  {
-    "id": "battle_eE_10415_8",
-    "desc": "이스터 - 메인(하) - 아라야 조우 시",
-    "dlg": "<color=#cf0000>真可悲……見到了本不願見的蒼穹，卻又萌生了希望。</color>"
-  },
-  {
-    "id": "battle_eE_10415_9",
-    "desc": "이스터 - 메인(하) - 아라야 2페이즈 시작",
-    "dlg": "<color=#cf0000>哪怕你說上千遍萬遍，她依然不會記得。</color>"
-  },
-  {
-    "id": "battle_eE_10415_10",
-    "desc": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
-    "dlg": "<color=#cf0000>即使那些相同的花朵凋零，她也不會回來。</color>"
-  },
-  {
-    "id": "battle_eE_10415_11",
-    "desc": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
-    "dlg": "<color=#cf0000>而你必定沒有哪天是不想落淚的。</color>"
-  },
-  {
-    "id": "battle_eE_10415_12",
-    "desc": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
-    "dlg": "<color=#cf0000>沒錯。所以就在此時此地將其全數斬斷吧。每一根絲線。</color>"
-  },
-  {
-    "id": "battle_eE_10415_13",
-    "desc": "이스터 - 메인(하) - 뤼엔 조우 시",
-    "dlg": "<color=#cf0000>那難聽的噪音……是你。你就是我注定要在這裡斬斷的人。</color>"
-  },
-  {
-    "id": "battle_eE_10415_14",
-    "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
-    "dlg": "<color=#cf0000>你一定很期盼這天的到來吧。或者我該說，是你的神？</color>"
-  },
-  {
-    "id": "battle_eE_10415_15",
-    "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
-    "dlg": "<color=#cf0000>該下地獄的不是我。是你。</color>"
-  },
-  {
-    "id": "battle_eE_10415_16",
-    "desc": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
-    "dlg": "<color=#cf0000>我<i>能</i>斬斷它。\n在這些將我纏繞、勒緊的絲線把我壓死之前……我會舉起這把劍……將它們統統斬斷！</color>"
-  },
-  {
-    "id": "battle_eE_10415_17",
-    "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
-    "dlg": "<color=#cf0000>你沒資格要我解釋。我把你切碎只是因為我想這麼做，就像你曾經只是為了發洩怒火就隨便踢我一樣。</color>"
-  },
-  {
-    "id": "battle_eE_10415_18",
-    "desc": "이스터 - 거던(히든) - 뤼엔 조우 시",
-    "dlg": "<color=#cf0000>我倒希望你的死不在那個神的計畫之中。不然我就沒機會享受屬於我的樂趣了。</color>"
-  },
-  {
-    "id": "battle_eE_10415_19",
-    "desc": "이스터 - 거던(히든) - 마티아스 조우 시",
-    "dlg": "<color=#cf0000>那件聖物、那些鎖鏈、那些幼稚的玩具收藏，還有你的命……我會把你珍視的東西一件不落地找出來，然後悉數摧毀。</color>"
-  },
-  {
-    "id": "battle_eE_10415_20",
-    "desc": "이스터 - 거던(히든) - 칼리스토 조우 시",
-    "dlg": "<color=#cf0000>當利刃將你劈開，得知大業將成，你會感到高興嗎？還是會因為無法親眼見證它的完成而哀嘆？</color>"
-  },
-  {
-    "id": "battle_eE_10415_21",
-    "desc": "이스터 - 거던(히든) - 소라 조우 시",
-    "dlg": "<color=#cf0000>那煩人的嗶嗶聲……難怪阿賴耶會把你切成碎條。</color>"
-  },
-  {
-    "id": "battle_eE_10415_22",
-    "desc": "이스터 - 거던(히든) - 렌 조우 시",
-    "dlg": "<color=#cf0000>……有著熟悉外表的陌生人。但怎麼可能？我們的絲線從未交織過。</color>"
-  },
-  {
-    "id": "battle_select_10415_1",
-    "desc": "Viewed in Battle",
-    "dlg": "<color=#cf0000>……這滴答聲，最終也會分崩離析。</color>"
-  },
-  {
-    "id": "battle_endcommand_10415_1",
-    "desc": "Commencing Attack",
-    "dlg": "<color=#cf0000>如·畫·般。</color>"
-  },
-  {
-    "id": "battle_enemy_break_10415_1",
-    "desc": "Enemy Stagger",
-    "dlg": "<color=#cf0000>切得越多……</color>"
-  },
-  {
-    "id": "battle_break_10415_1",
-    "desc": "Staggered",
-    "dlg": "<color=#cf0000>還不是時候……我還不想回去……</color>"
-  },
-  {
-    "id": "battle_kill_10415_1",
-    "desc": "Enemy Killed",
-    "dlg": "<color=#cf0000>……怨恨也會變得遲鈍嗎？</color>"
-  },
-  {
-    "id": "battle_dead_10415_1",
-    "desc": "Death",
-    "dlg": "<color=#cf0000>即便是死……它依然無法被斬斷……</color>"
-  },
-  {
-    "id": "battle_s3_10415_1",
-    "desc": "",
-    "dlg": "<color=#cf0000>我將抹除一切……無休止地斬擊，直到我的氣息燃燒殆盡。</color>"
-  },
-  {
-    "id": "battle_special_10415_1",
-    "desc": "",
-    "dlg": "<color=#cf0000>我終於把它徹底斬斷了嗎……？</color>"
-  },
-  {
-    "id": "battle_special_10415_1_2",
-    "desc": "",
-    "dlg": "<color=#cf0000>斷·絕。</color>"
-  },
-  {
-    "id": "battle_special_10415_2",
-    "desc": "",
-    "dlg": "<color=#cf0000>……還真是陰魂不散。</color>"
-  },
-  {
-    "id": "battle_special_10415_4",
-    "desc": "",
-    "dlg": "<color=#cf0000>你很清楚吧，預測我的動作是毫無意義的。</color>"
-  },
-  {
-    "id": "battle_special_10415_5",
-    "desc": "",
-    "dlg": "<color=#cf0000>我已經受夠了你和你的巴勒莫劍術——給我下地獄去吧！</color>"
-  },
-  {
-    "id": "battle_special_10415_6",
-    "desc": "",
-    "dlg": "<color=#cf0000>警告你，這會很燙。像地獄一樣燙！</color>"
-  },
-  {
-    "id": "battle_special_10415_7",
-    "desc": "",
-    "dlg": "<color=#cf0000>你聽見了嗎？我生命中每個瞬間都在咆哮著要殺了你的怒吼！！</color>"
-  },
-  {
-    "id": "battle_special_10415_8",
-    "desc": "",
-    "dlg": "<color=#cf0000>既然如此，直到這一刻燃燒殆盡之前……將其斬斷吧。</color>"
-  },
-  {
-    "id": "battle_special_10415_9",
-    "desc": "",
-    "dlg": "<color=#cf0000>狩獵就此結束！</color>"
-  },
-  {
-    "id": "battle_special_10415_9_1",
-    "desc": "",
-    "dlg": "<color=#cf0000>預測毫無意義……</color>"
-  },
-  {
-    "id": "battle_special_10415_9_2",
-    "desc": "",
-    "dlg": "<color=#cf0000>正中靶心！</color>"
-  },
-  {
-    "id": "battle_special_10415_9_3",
-    "desc": "",
-    "dlg": "<color=#cf0000>各位。永別了。</color>"
-  },
-  {
-    "id": "battle_special_10415_10",
-    "desc": "",
-    "dlg": "<color=#cf0000>我曾令人窒息地忍耐著。\n我曾拚盡全力地渴望著。\n我曾無數次地詛咒著。</color>"
-  },
-  {
-    "id": "battle_special_10415_11",
-    "desc": "",
-    "dlg": "<color=#cf0000>剩下來繼續肆虐的……不過是痛苦的怨恨。</color>"
-  }.
-  {
-    "id": "battle_select_11115_1",
-    "desc": "###### HoS The Middle Nursefather Outis ###### Viewed in Battle",
-    "dlg": "<color=#4d8058>那令人不安的噪音……我有種不祥的預感。別放鬆警惕。</color>"
-  },
-  {
-    "id": "battle_endcommand_11115_1",
-    "desc": "Commencing Attack",
-    "dlg": "<color=#4d8058>歡迎來到殺戮地帶！</color>"
-  },
-  {
-    "id": "battle_enemy_break_11115_1",
-    "desc": "Enemy Stagger",
-    "dlg": "<color=#4d8058>好了，是沒招了，還是你還留了什麼驚喜？</color>"
-  },
-  {
-    "id": "battle_break_11115_1",
-    "desc": "Staggered",
-    "dlg": "<color=#4d8058>哈哈！好久沒這樣了。我還真有點喘不上氣了！</color>"
-  },
-  {
-    "id": "battle_kill_11115_1",
-    "desc": "Enemy Killed",
-    "dlg": "<color=#4d8058>遊戲結束！</color>"
-  },
-  {
-    "id": "battle_dead_11115_1",
-    "desc": "Death",
-    "dlg": "<color=#4d8058>……不會讓你……拿走我的劍。永遠不會……</color>"
-  },
-  {
-    "id": "battle_s3_11115_1_1",
-    "desc": "",
-    "dlg": "<color=#4d8058>這些玩具……</color>"
-  },
-  {
-    "id": "battle_s3_11115_1_2",
-    "desc": "",
-    "dlg": "<color=#4d8058>……一點也不好玩……</color>"
-  },
-  {
-    "id": "battle_s3_11115_1_3",
-    "desc": "",
-    "dlg": "<color=#4d8058>……夠了！</color>"
-  },
-  {
-    "id": "battle_special_11115_1",
-    "desc": "",
-    "dlg": "<color=#4d8058>過來。</color>"
-  },
-  {
-    "id": "battle_special_11115_2_2",
-    "desc": "",
-    "dlg": "<color=#4d8058>警告你，這會很燙。</color>"
-  },
-  {
-    "id": "battle_special_11115_2_3",
-    "desc": "",
-    "dlg": "<color=#4d8058>像地獄一樣燙！</color>"
-  },
-  {
-    "id": "battle_special_11115_3",
-    "desc": "",
-    "dlg": "<color=#4d8058>哈！正中紅心！</color>"
-  },
-  {
-    "id": "battle_special_11115_4",
-    "desc": "",
-    "dlg": "<color=#4d8058>我已經陪你玩夠了！\n是時候展現點真本事了！</color>"
-  },
-  {
-    "id": "battle_special_11115_5",
-    "desc": "",
-    "dlg": "<color=#4d8058>哈哈哈！有意思！</color>"
-  },
-  {
-    "id": "battle_special_11115_6",
-    "desc": "",
-    "dlg": "<color=#4d8058>看好了！</color>"
-  },
-  {
-    "id": "battle_special_11115_7",
-    "desc": "",
-    "dlg": "<color=#4d8058>呵。連記下來的必要都沒有。</color>"
-  },
-  {
-    "id": "battle_special_11115_8",
-    "desc": "",
-    "dlg": "<color=#4d8058>好極了！幹得漂亮，小鬼！</color>"
-  },
-  {
-    "id": "battle_special_11115_9",
-    "desc": "",
-    "dlg": "<color=#4d8058>還記得嗎，小鬼？</color>"
-  },
-  {
-    "id": "battle_special_11115_9-01",
-    "desc": "",
-    "dlg": "<color=#4d8058>如果是為了我們自己人，一點小小的犧牲算不了什麼！</color>"
-  },
-  {
-    "id": "battle_special_11115_10_2-03",
-    "desc": "",
-    "dlg": "<color=#4d8058>這一切都是為了家族！</color>"
-  }
-]
+      "id": "battle_eE_10415_1",
+      "desc": "############ Blade of the House of Spiders Ryoshu ##############이스터 - 메인(상) - 루치오 조우 시",
+      "dlg": "<color=#cf0000>我會將你大卸八塊，讓你 在·試·不·敢 這般拙劣的模仿。</color>"
+    },
+    {
+      "id": "battle_eE_10415_2",
+      "desc": "이스터 - 메인(상) - 렌 조우 시",
+      "dlg": "<color=#cf0000>你……是誰？蜘蛛巢裡可沒有你這號人物。</color>"
+    },
+    {
+      "id": "battle_eE_10415_3",
+      "desc": "이스터 - 메인(상) - 알비나 조우 시",
+      "dlg": "<color=#cf0000>……至少那身盔甲遮住了你那令人作嘔的模樣。</color>"
+    },
+    {
+      "id": "battle_eE_10415_4",
+      "desc": "이스터 - 메인(중) - 소라 조우 시",
+      "dlg": "<color=#cf0000>等我把你砍得不成·人·形，再把剩下的殘骸丟進哪個廢棄水溝裡，那煩人的嗶嗶聲或許就會消停了。</color>"
+    },
+    {
+      "id": "battle_eE_10415_5",
+      "desc": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
+      "dlg": "<color=#cf0000>……這地方，也有和我一樣的東西？</color>"
+    },
+    {
+      "id": "battle_eE_10415_6",
+      "desc": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
+      "dlg": "<color=#cf0000>我能看見與你纏繞著的每一根時間之絲。</color>"
+    },
+    {
+      "id": "battle_eE_10415_7",
+      "desc": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
+      "dlg": "<color=#cf0000>在我抹除自我的同時，希望你也能將自己抹除。</color>"
+    },
+    {
+      "id": "battle_eE_10415_8",
+      "desc": "이스터 - 메인(하) - 아라야 조우 시",
+      "dlg": "<color=#cf0000>真可悲……見到了本不願見的蒼穹，卻又萌生了希望。</color>"
+    },
+    {
+      "id": "battle_eE_10415_9",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 시작",
+      "dlg": "<color=#cf0000>哪怕你說上千遍萬遍，她依然不會記得。</color>"
+    },
+    {
+      "id": "battle_eE_10415_10",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
+      "dlg": "<color=#cf0000>即使那些相同的花朵凋零，她也不會回來。</color>"
+    },
+    {
+      "id": "battle_eE_10415_11",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
+      "dlg": "<color=#cf0000>而你必定沒有哪天是不想落淚的。</color>"
+    },
+    {
+      "id": "battle_eE_10415_12",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
+      "dlg": "<color=#cf0000>沒錯。所以就在此時此地將其全數斬斷吧。每一根絲線。</color>"
+    },
+    {
+      "id": "battle_eE_10415_13",
+      "desc": "이스터 - 메인(하) - 뤼엔 조우 시",
+      "dlg": "<color=#cf0000>那難聽的噪音……是你。你就是我注定要在這裡斬斷的人。</color>"
+    },
+    {
+      "id": "battle_eE_10415_14",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
+      "dlg": "<color=#cf0000>你一定很期盼這天的到來吧。或者我該說，是你的神？</color>"
+    },
+    {
+      "id": "battle_eE_10415_15",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
+      "dlg": "<color=#cf0000>該下地獄的不是我。是你。</color>"
+    },
+    {
+      "id": "battle_eE_10415_16",
+      "desc": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
+      "dlg": "<color=#cf0000>我<i>能</i>斬斷它。\n在這些將我纏繞、勒緊的絲線把我壓死之前……我會舉起這把劍……將它們統統斬斷！</color>"
+    },
+    {
+      "id": "battle_eE_10415_17",
+      "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
+      "dlg": "<color=#cf0000>你沒資格要我解釋。我把你切碎只是因為我想這麼做，就像你曾經只是為了發洩怒火就隨便踢我一樣。</color>"
+    },
+    {
+      "id": "battle_eE_10415_18",
+      "desc": "이스터 - 거던(히든) - 뤼엔 조우 시",
+      "dlg": "<color=#cf0000>我倒希望你的死不在那個神的計畫之中。不然我就沒機會享受屬於我的樂趣了。</color>"
+    },
+    {
+      "id": "battle_eE_10415_19",
+      "desc": "이스터 - 거던(히든) - 마티아스 조우 시",
+      "dlg": "<color=#cf0000>那件聖物、那些鎖鏈、那些幼稚的玩具收藏，還有你的命……我會把你珍視的東西一件不落地找出來，然後悉數摧毀。</color>"
+    },
+    {
+      "id": "battle_eE_10415_20",
+      "desc": "이스터 - 거던(히든) - 칼리스토 조우 시",
+      "dlg": "<color=#cf0000>當利刃將你劈開，得知大業將成，你會感到高興嗎？還是會因為無法親眼見證它的完成而哀嘆？</color>"
+    },
+    {
+      "id": "battle_eE_10415_21",
+      "desc": "이스터 - 거던(히든) - 소라 조우 시",
+      "dlg": "<color=#cf0000>那煩人的嗶嗶聲……難怪阿賴耶會把你切成碎條。</color>"
+    },
+    {
+      "id": "battle_eE_10415_22",
+      "desc": "이스터 - 거던(히든) - 렌 조우 시",
+      "dlg": "<color=#cf0000>……有著熟悉外表的陌生人。但怎麼可能？我們的絲線從未交織過。</color>"
+    },
+    {
+      "id": "battle_select_10415_1",
+      "desc": "Viewed in Battle",
+      "dlg": "<color=#cf0000>……這滴答聲，最終也會分崩離析。</color>"
+    },
+    {
+      "id": "battle_endcommand_10415_1",
+      "desc": "Commencing Attack",
+      "dlg": "<color=#cf0000>如·畫·般。</color>"
+    },
+    {
+      "id": "battle_enemy_break_10415_1",
+      "desc": "Enemy Stagger",
+      "dlg": "<color=#cf0000>切得越多……</color>"
+    },
+    {
+      "id": "battle_break_10415_1",
+      "desc": "Staggered",
+      "dlg": "<color=#cf0000>還不是時候……我還不想回去……</color>"
+    },
+    {
+      "id": "battle_kill_10415_1",
+      "desc": "Enemy Killed",
+      "dlg": "<color=#cf0000>……怨恨也會變得遲鈍嗎？</color>"
+    },
+    {
+      "id": "battle_dead_10415_1",
+      "desc": "Death",
+      "dlg": "<color=#cf0000>即便是死……它依然無法被斬斷……</color>"
+    },
+    {
+      "id": "battle_s3_10415_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>我將抹除一切……無休止地斬擊，直到我的氣息燃燒殆盡。</color>"
+    },
+    {
+      "id": "battle_special_10415_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>我終於把它徹底斬斷了嗎……？</color>"
+    },
+    {
+      "id": "battle_special_10415_1_2",
+      "desc": "",
+      "dlg": "<color=#cf0000>斷·絕。</color>"
+    },
+    {
+      "id": "battle_special_10415_2",
+      "desc": "",
+      "dlg": "<color=#cf0000>……還真是陰魂不散。</color>"
+    },
+    {
+      "id": "battle_special_10415_4",
+      "desc": "",
+      "dlg": "<color=#cf0000>你很清楚吧，預測我的動作是毫無意義的。</color>"
+    },
+    {
+      "id": "battle_special_10415_5",
+      "desc": "",
+      "dlg": "<color=#cf0000>我已經受夠了你和你的巴勒莫劍術——給我下地獄去吧！</color>"
+    },
+    {
+      "id": "battle_special_10415_6",
+      "desc": "",
+      "dlg": "<color=#cf0000>警告你，這會很燙。像地獄一樣燙！</color>"
+    },
+    {
+      "id": "battle_special_10415_7",
+      "desc": "",
+      "dlg": "<color=#cf0000>你聽見了嗎？我生命中每個瞬間都在咆哮著要殺了你的怒吼！！</color>"
+    },
+    {
+      "id": "battle_special_10415_8",
+      "desc": "",
+      "dlg": "<color=#cf0000>既然如此，直到這一刻燃燒殆盡之前……將其斬斷吧。</color>"
+    },
+    {
+      "id": "battle_special_10415_9",
+      "desc": "",
+      "dlg": "<color=#cf0000>狩獵就此結束！</color>"
+    },
+    {
+      "id": "battle_special_10415_9_1",
+      "desc": "",
+      "dlg": "<color=#cf0000>預測毫無意義……</color>"
+    },
+    {
+      "id": "battle_special_10415_9_2",
+      "desc": "",
+      "dlg": "<color=#cf0000>正中靶心！</color>"
+    },
+    {
+      "id": "battle_special_10415_9_3",
+      "desc": "",
+      "dlg": "<color=#cf0000>各位。永別了。</color>"
+    },
+    {
+      "id": "battle_special_10415_10",
+      "desc": "",
+      "dlg": "<color=#cf0000>我曾令人窒息地忍耐著。\n我曾拚盡全力地渴望著。\n我曾無數次地詛咒著。</color>"
+    },
+    {
+      "id": "battle_special_10415_11",
+      "desc": "",
+      "dlg": "<color=#cf0000>剩下來繼續肆虐的……不過是痛苦的怨恨。</color>"
+    },
+    {
+      "id": "battle_select_11115_1",
+      "desc": "###### HoS The Middle Nursefather Outis ###### Viewed in Battle",
+      "dlg": "<color=#4d8058>那令人不安的噪音……我有種不祥的預感。別放鬆警惕。</color>"
+    },
+    {
+      "id": "battle_endcommand_11115_1",
+      "desc": "Commencing Attack",
+      "dlg": "<color=#4d8058>歡迎來到殺戮地帶！</color>"
+    },
+    {
+      "id": "battle_enemy_break_11115_1",
+      "desc": "Enemy Stagger",
+      "dlg": "<color=#4d8058>好了，是沒招了，還是你還留了什麼驚喜？</color>"
+    },
+    {
+      "id": "battle_break_11115_1",
+      "desc": "Staggered",
+      "dlg": "<color=#4d8058>哈哈！好久沒這樣了。我還真有點喘不上氣了！</color>"
+    },
+    {
+      "id": "battle_kill_11115_1",
+      "desc": "Enemy Killed",
+      "dlg": "<color=#4d8058>遊戲結束！</color>"
+    },
+    {
+      "id": "battle_dead_11115_1",
+      "desc": "Death",
+      "dlg": "<color=#4d8058>……不會讓你……拿走我的劍。永遠不會……</color>"
+    },
+    {
+      "id": "battle_s3_11115_1_1",
+      "desc": "",
+      "dlg": "<color=#4d8058>這些玩具……</color>"
+    },
+    {
+      "id": "battle_s3_11115_1_2",
+      "desc": "",
+      "dlg": "<color=#4d8058>……一點也不好玩……</color>"
+    },
+    {
+      "id": "battle_s3_11115_1_3",
+      "desc": "",
+      "dlg": "<color=#4d8058>……夠了！</color>"
+    },
+    {
+      "id": "battle_special_11115_1",
+      "desc": "",
+      "dlg": "<color=#4d8058>過來。</color>"
+    },
+    {
+      "id": "battle_special_11115_2_2",
+      "desc": "",
+      "dlg": "<color=#4d8058>警告你，這會很燙。</color>"
+    },
+    {
+      "id": "battle_special_11115_2_3",
+      "desc": "",
+      "dlg": "<color=#4d8058>像地獄一樣燙！</color>"
+    },
+    {
+      "id": "battle_special_11115_3",
+      "desc": "",
+      "dlg": "<color=#4d8058>哈！正中紅心！</color>"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "",
+      "dlg": "<color=#4d8058>我已經陪你玩夠了！\n是時候展現點真本事了！</color>"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "",
+      "dlg": "<color=#4d8058>哈哈哈！有意思！</color>"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "",
+      "dlg": "<color=#4d8058>看好了！</color>"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "",
+      "dlg": "<color=#4d8058>呵。連記下來的必要都沒有。</color>"
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "",
+      "dlg": "<color=#4d8058>好極了！幹得漂亮，小鬼！</color>"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "",
+      "dlg": "<color=#4d8058>還記得嗎，小鬼？</color>"
+    },
+    {
+      "id": "battle_special_11115_9-01",
+      "desc": "",
+      "dlg": "<color=#4d8058>如果是為了我們自己人，一點小小的犧牲算不了什麼！</color>"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "",
+      "dlg": "<color=#4d8058>這一切都是為了家族！</color>"
+    }
+  ]
 }
